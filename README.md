@@ -47,6 +47,9 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=KyawZawLin321&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
+[![](https://visitcount.itsvg.in/api?id=KyawZawLin321&icon=7&color=1)](https://visitcount.itsvg.in)
+
+
 
 ## 🌐 Socials:
 
