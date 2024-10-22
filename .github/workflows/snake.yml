@@ -34,7 +34,7 @@ jobs:
         uses: ad-m/github-push-action@master
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
-          branch: master  # Update this to the branch you want to push to
+          branch: main  # Update this to the branch you want to push to
           force: true
 
       # Deploy to GitHub Pages
