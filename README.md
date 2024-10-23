@@ -1,5 +1,5 @@
 <h1 align="left">Hi 👋, I'm Kyaw Zaw Lin</h1>
-<h3 align="left">A passionate frontend developer from India</h3>
+<h3 align="left">A passionate full stack developer from Myanmar</h3>
 
 
 
