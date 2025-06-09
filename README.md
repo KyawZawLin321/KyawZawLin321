@@ -3,11 +3,11 @@
 
 
 
-- 🔭 I’m currently working on **edusn digital school**
+- 🔭 I’m currently working on **Innoscript**
 
-- 🌱 I’m currently learning **Data Structure And Algorithms**
+- 🌱 I’m currently learning **AWS**
 
-- 💬 Ask me about **Java And Spring Boot**
+- 💬 Ask me about **Java Spring Boot/C# .net**
 
 - ⚡ Fun fact **Why do programmers prefer dark mode? Because light attracts bugs! 💻🐛**
   
