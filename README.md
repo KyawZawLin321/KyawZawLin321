@@ -3,7 +3,7 @@
 
 
 
-- 🔭 I’m currently working on **Innoscript**
+- 🔭 I’m currently working on **Uab Bank**
 
 - 🌱 I’m currently learning **AWS**
 
